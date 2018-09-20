@@ -1,0 +1,2 @@
+# Penggajian
+Sistem Penggajian Sederhana
